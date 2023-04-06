@@ -1,0 +1,15 @@
+{
+  "name": "langchain-doc-chinese",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mengjian-github/langchain-doc-chinese.git",
+  "author": "erasermeng <erasermeng@tencent.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.9"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}

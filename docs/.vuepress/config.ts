@@ -1,7 +1,6 @@
 import { defineConfig } from "vuepress/config";
 
 export default defineConfig({
-  title: "Hello VuePress",
-  description: "Just playing around",
+  title: "LangChain中文文档",
   base: '/langchain-doc-chinese/'
 });
